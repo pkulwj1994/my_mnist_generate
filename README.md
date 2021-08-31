@@ -1,2 +1,2 @@
 # my_mnist_generate
-mnist and cifar10 generation experiments
+implementation of normalizing flows for mnist and cifar10 generation experiments
